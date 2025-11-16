@@ -1,5 +1,4 @@
-# scratch_ml
-Simulations and Predictions From Scratch Using Machine Learning Principles
+# Scratch ML: Simulations and Predictions From Scratch Using Machine Learning Principles
 
 ## Cannoballs Distance Predictions
 
